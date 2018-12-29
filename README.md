@@ -1,1 +1,2 @@
 # Drishti-Buzzer
+A wireless buzzer is to be designed for quiz game’s having buzzer rounds. The project would consist of multiple buzzer one for each player and a central computer which receives data from each of these buzzers and determines which buzzer’s button was pressed first for a particular question. The central computer will be displaying a GUI (graphical user interface) depicting various questions ,which teams turn is it to answer ,each teams score and other such information.
